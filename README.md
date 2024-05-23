@@ -1,4 +1,4 @@
-Here's the `README.md` file for your Snake game project in RISC-V assembly:
+
 
 ```markdown
 # Snake Game in RISC-V Assembly
