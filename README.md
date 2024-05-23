@@ -1,5 +1,3 @@
-
-
 ```markdown
 # Snake Game in RISC-V Assembly
 
@@ -32,7 +30,6 @@ The Snake game is written in RISC-V assembly language and uses a simple terminal
    riscv64-unknown-elf-ld -o snake_game snake_game.o
    spike pk snake_game
    ```
-
    Make sure to replace the simulator and linker commands with those appropriate for your setup.
 
 ## How to Play
@@ -59,3 +56,11 @@ This project is licensed under the CMPUT 229 Public Materials License, Version 1
 - **University of Alberta**: Original project materials and inspiration.
 - **Yufei Chen**: Contributions to the base code.
 
+---
+
+**Author**: [Your Name]
+
+**Date**: [Current Date]
+
+**Contact**: [Your Email]
+```
